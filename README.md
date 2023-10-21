@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm K Jagateesvaran Rajoo</h1>
-<h3 align="center">Software Engineer - Singapore</h3>
-- 📄 Linkedin : [https://www.linkedin.com/in/k-jagateesvaran-rajoo-34049017a/](https://www.linkedin.com/in/k-jagateesvaran-rajoo-34049017a/)
+<h3 align="center">Software Engineer, Singapore</h3>
 
 
 <h3 align="left">Coding Languages</h3>
@@ -43,3 +42,6 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
 </p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagatees&show_icons=true&locale=en&layout=compact" alt="jagateesvaran" /></p>
