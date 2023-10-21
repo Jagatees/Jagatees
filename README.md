@@ -9,7 +9,7 @@
 <!-- [Location for badges] (https://dev.to/envoy_/150-badges-for-github-pnk#skills) -->
 
 
-## Coding Languages & Tools
+## Skills
 
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
