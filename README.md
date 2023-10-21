@@ -2,6 +2,13 @@
 <h3 align="center">Software Engineer, Singapore</h3>
 
 
+<p>INSERT GiTHUB README LIKE COOl STUFF TO SHOW WHO I AM MORE</p>
+
+<p align="center">
+  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=jagatees&hide_border=true&show_icons=true" alt="jagatees's github stats"></a>
+</p>
+
+
 <h3 align="left">Coding Languages</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
@@ -43,7 +50,3 @@
   </a>
 </p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagatees&show_icons=true&locale=en&layout=compact" alt="jagatees" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagatees&" alt="jagatees" /></p>
