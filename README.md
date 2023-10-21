@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm K Jagateesvaran Rajoo</h1>
 <h3 align="center">Software Engineer, Singapore</h3>
 
-
-<p>INSERT GiTHUB README LIKE COOl STUFF TO SHOW WHO I AM MORE</p>
-<!-- [go here to fet more cool stuff](https://github.com/abhisheknaiidu/awesome-github-profile-readme#descriptive-) -->
-
-
 <p align="center">
   <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=jagatees&hide_border=true&show_icons=true" alt="jagatees's github stats"></a>
 </p>
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
+<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 
 
 ## Skills
@@ -26,8 +21,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Unity](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Unreal](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+
 
 
 
