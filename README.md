@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer, Singapore</h3>
 
 <p align="center">
-  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=jagatees&hide_border=true&show_icons=true" alt="jagatees's github stats"></a>
+  <a href="https://github.com/jagatees"><img src="https://github-readme-stats.vercel.app/api?username=jagatees&hide_border=true&show_icons=true" alt="jagatees's github stats"></a>
 </p>
 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
