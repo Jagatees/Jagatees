@@ -9,40 +9,26 @@
 <p align="center">
   <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=jagatees&hide_border=true&show_icons=true" alt="jagatees's github stats"></a>
 </p>
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 
 
-<h3 align="left">Coding Languages</h3>
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-</p>
+## Skills
+
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 
-<h3 align="left">Tools</h3>
-<p align="left">
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-  <a href="https://unrealengine.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-</p>
+### Software
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![Unity](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![Unreal](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+
 
 
 <h3 align="left">Databases</h3>
