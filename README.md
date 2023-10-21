@@ -44,4 +44,6 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagatees&show_icons=true&locale=en&layout=compact" alt="jagateesvaran" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagatees&show_icons=true&locale=en&layout=compact" alt="jagatees" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagatees&" alt="jagatees" /></p>
