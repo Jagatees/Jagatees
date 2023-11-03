@@ -11,23 +11,28 @@
 
 ## Skill Set Overview
 
-### Software Development Skills
-- **Languages:** Proficient in C, Python, and C++, with the ability to write efficient, maintainable code.
-- **Web Frameworks:** Experienced in developing web applications using Flask.
-- **Embedded Systems:** Skilled in programming microcontrollers with Arduino.
-
-### Game Development Skills
-- **Engines:** Capable of creating immersive game experiences in both Unity and Unreal Engine.
-- **Cross-Platform Development:** Knowledgeable in developing games for various platforms.
-
-### Tools & Technologies
+### Programming Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+
+### Databases & Backend Services
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
+<!-- Add other database badges here -->
+
+### Web Frameworks
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Embedded Systems
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
+
+### Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?logo=unrealengine&logoColor=white&style=for-the-badge)
+
+### Other Technologies
+![MQTT](https://img.shields.io/badge/MQTT-3C5280?logo=eclipsemosquitto&logoColor=white&style=for-the-badge)
+
 
 
 
