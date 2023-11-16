@@ -18,7 +18,6 @@
 
 ### Databases & Backend Services
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge)
-<!-- Add other database badges here -->
 
 ### Web Frameworks
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
