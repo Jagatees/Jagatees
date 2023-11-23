@@ -4,8 +4,8 @@
 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Jagatees=Jagatees&show_icons=true&count_private=true)
-![Your GitHub Contributions](https://gh-calendar.dev/cal?Jagatees=Jagatees)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jagatees&show_icons=true&count_private=true)
+![Your GitHub Contributions](https://gh-calendar.dev/cal?username=Jagatees)
 
 ## Skill Set Overview
 
