@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm K Jagateesvaran Rajoo</h1>
 <h3 align="center">Software Engineer, Singapore</h3>
 
-<!--   <a href="https://github.com/jagatees"><img src="https://github-readme-stats.vercel.app/api?username=jagatees&hide_border=true&show_icons=true" alt="jagatees's github stats"></a> -->
 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-<img height="40" src="https://raw.githubusercontent.com/vadimdemedes/AnimeGifs/master/gifs/naruto.gif"/>
-
-<!-- [Location for badges] (https://dev.to/envoy_/150-badges-for-github-pnk#skills) -->
-
 
 ## Skill Set Overview
 
