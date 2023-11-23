@@ -4,7 +4,7 @@
 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Jagatees=your-Jagatees&show_icons=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Jagatees=Jagatees&show_icons=true&count_private=true)
 
 ## Skill Set Overview
 
