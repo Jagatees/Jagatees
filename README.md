@@ -5,6 +5,7 @@
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Jagatees=Jagatees&show_icons=true&count_private=true)
+![Your GitHub Contributions](https://gh-calendar.dev/cal?Jagatees=Jagatees)
 
 ## Skill Set Overview
 
