@@ -3,6 +3,10 @@
 
 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagateesvaran&show_icons=true&locale=en&layout=compact" alt="jagateesvaran" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagateesvaran&" alt="jagateesvaran" /></p>
+
 ## Skill Set Overview
 
 ### Programming Languages
