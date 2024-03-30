@@ -30,9 +30,5 @@
 ![MQTT](https://img.shields.io/badge/MQTT-3C5280?logo=eclipsemosquitto&logoColor=white&style=for-the-badge)
 
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jagatees&theme=city_lights)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jagatees&theme=city_lights) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jagatees&theme=city_lights)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jagatees&theme=city_lights) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jagatees&theme=city_lights&utcOffset=8)
-
-
+### LEARNING
+HTML , CSS , PHP , DJANGO, MYSQL
