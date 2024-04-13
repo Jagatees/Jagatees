@@ -30,7 +30,7 @@
 ![MQTT](https://img.shields.io/badge/MQTT-3C5280?logo=eclipsemosquitto&logoColor=white&style=for-the-badge)
 
 
-### LEARNING
+### Coming Soon...
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 
