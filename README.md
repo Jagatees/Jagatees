@@ -26,6 +26,10 @@
 ### Embedded Systems
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
 
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white&style=for-the-badge)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?logo=unreal-engine&logoColor=white&style=for-the-badge)
+
 ### Web Scraping
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3498DB?style=for-the-badge)
