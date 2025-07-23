@@ -13,7 +13,7 @@ I'm **Jagatees**, a passionate software engineer from Singapore who loves buildi
 
 Whether I’m deploying a chatbot using **AWS Bedrock**, managing users in **Firebase**, or syncing schedules across time zones with **Next.js**—I’m all about creating **user-focused**, scalable, and production-ready software.
 
-📌 I'm currently pursuing Software Engineering at **Singapore Institute of Technology (SIT)** in collaboration with the **University of Glasgow**.
+📌 I'm currently pursuing Software Engineering at **Singapore Institute of Technology (SIT)**.
 
 ---
 
@@ -76,7 +76,6 @@ Whether I’m deploying a chatbot using **AWS Bedrock**, managing users in **Fir
 
 - 🌐 Portfolio: [https://www.jagatees.dev](https://www.jagatees.dev)
 - 💼 LinkedIn: [linkedin.com/in/jagatees](https://www.linkedin.com/in/jagatees/)
-- 🧠 Blog: [https://jagatees.medium.com](https://jagatees.medium.com)
 - 🧑‍💻 Projects: [github.com/jagatees](https://github.com/jagatees)
 
 ---
