@@ -1,3 +1,4 @@
+> “Project List”
 
 - 🤝 **[AbangSGS](https://abangsg.vercel.app/)** *(2026)*
   An AI-powered digital companion designed to assist migrant workers in Singapore, leveraging LLMs for accessible support.
@@ -9,4 +10,3 @@
   My official portfolio website showcasing my journey, technical skills, and detailed project case studies.
   
 
-> “Keep moving on forward.”
