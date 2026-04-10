@@ -1,5 +1,9 @@
 > “Project List”
 
+
+- 🌐 **[AWS Community Globe](https://awscommunityglobe.click/)** *(2026)*
+🌍 What's the best way to visualize 4,000+ AWS community members? How about mapping them on an interactive 3D globe.
+
 - ⭐ **[SGSKills](https://sgskills.jagatees.dev/)** *(2026)*
 SGSkills is a Singapore-first skills marketplace for reusable AI workflows, where developers can discover, view, and install practical skills for local use cases like GovTech   announcements, data.gov.sg analysis, school planning, and policy/news briefing automation.
   
