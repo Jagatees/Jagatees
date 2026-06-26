@@ -11,7 +11,7 @@
 * 🤝 **[AbangSGS](https://abangsg.vercel.app/)** *(2026)*  
   An AI-powered digital companion designed to assist migrant workers in Singapore, leveraging LLMs to provide more accessible support and guidance.
 
-* 🏆 **[Kiro Profile](https://kiro-profile-leaderboard-brown.vercel.app/)** 
+* 🏆 **[Kiro Profile](https://kiro-profile-leaderboard-brown.vercel.app/)** *(2026)*  
   A leaderboard-style profile platform for Kiro users to showcase activity, streaks, and usage insights.
 
 * 🤖 **[Kiro Buddy](https://www.kirobuddy.click/)** *(2026)*  
