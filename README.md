@@ -11,6 +11,15 @@
 * 🤝 **[AbangSGS](https://abangsg.vercel.app/)** *(2026)*  
   An AI-powered digital companion designed to assist migrant workers in Singapore, leveraging LLMs to provide more accessible support and guidance.
 
+* 🏆 **[Kiro Profile](https://kiro-profile-leaderboard-brown.vercel.app/)** · **[GitHub](https://github.com/Jagatees/Kiro-Profile)** *(2026)*  
+  A leaderboard-style profile platform for Kiro users to showcase activity, streaks, and usage insights.
+
+* 🤖 **[Kiro Buddy](https://www.kirobuddy.click/)** *(2026)*  
+  A floating desktop companion for Kiro that helps users track agent status, project progress, and development activity in a more visual way.
+
+* 🧩 **[Kiro Blueprint](https://github.com/Jagatees/Kiro-Blueprint)** *(2026)*  
+  A project exploring reusable Kiro blueprints, specs, and templates to help developers start structured AI-assisted projects faster.
+
 * 🗓️ **[Sync Buddies](https://sync-buddy-theta.vercel.app/)** *(2025)*  
   A web-based calendar sharing application designed to make scheduling easier across different user groups.
 
@@ -25,12 +34,3 @@
 
 * 📊 **[Codex Status Bar](https://github.com/Jagatees/codex-status-bar)** *(2026)*  
   A developer status bar experience for tracking Codex sessions, agent activity, permissions, progress, and coding workflow states in a cleaner visual interface.
-
-* 🏆 **[Kiro Profile](https://kiro-profile-leaderboard-brown.vercel.app/)** · **[GitHub](https://github.com/Jagatees/Kiro-Profile)** *(2026)*  
-  A leaderboard-style profile platform for Kiro users to showcase activity, streaks, and usage insights.
-
-* 🤖 **[Kiro Buddy](https://www.kirobuddy.click/)** *(2026)*  
-  A floating desktop companion for Kiro that helps users track agent status, project progress, and development activity in a more visual way.
-
-* 🧩 **[Kiro Blueprint](https://github.com/Jagatees/Kiro-Blueprint)** *(2026)*  
-  A WIP project exploring reusable Kiro blueprints, specs, and templates to help developers start structured AI-assisted projects faster.
